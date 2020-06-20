@@ -1,0 +1,89 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl{
+border:0;
+front:inherit;
+font-size:100%;
+margin:0;
+padding:0;
+vertical-align:baseline;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{
+display:block;
+}
+
+html, body {background: #1D1745; font-family:sans-serif;font-size: 16px; color: ##1D1745;}
+
+p {
+font-style: 1em;
+line-height: 1.5em;
+margin-bottom: 20px;
+color: ##1D1745;
+}
+
+#cv {
+width: 90%;
+max-width: 800px;
+background: #3971AC;
+margin: 35px auto;
+}
+
+
+.mainDetails {
+padding: 25px 35px;
+border-bottom: 2px solid ##010201;
+}
+
+#name h1 {
+font-size: 2.5em;
+font-weight: 700;
+font-family: sans-serif;
+margin-bottom: -6px;
+}
+
+#name h2 {
+font-size: 1.5em;
+margin-left: 2px;
+font-family:sans-serif;
+}
+
+#mainArea {
+  padding: 0 10px;
+}
+
+section {
+border-top: 5px solid #010201;
+padding: 30px 0 0;
+}
+
+section:first-child {
+  border-top: 0;
+}
+
+section:last-child {
+  padding: 20px 0 10px;
+}
+
+
+sectionTitle h1  {
+font-family: sans-serif;
+font-style: italic;
+font-size: 1.5em;
+color: #A6BFE1;
+}
+
+sectionContent h2 {
+font-family:sans-serif;
+font-style: italic;
+font-size: 1.1em;
+margin-bottom: -2px;
+  }
+
+  .sectionContent img {
+    border: 10px solid #080E19;
+  }
+
+  .subDetails {
+font-size: 0.8em;
+font-style: italic;
+    margin-bottom: 3px;
+  }
