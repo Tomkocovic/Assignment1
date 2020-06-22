@@ -4,7 +4,7 @@
 <title>Tom Kocovic - ePortfolio</title>
 
 <meta name="viewport"  content="width=device-width"/>
-<meta name="description"  content="ePortfolio for Student Name"/>
+<meta name="description"  content="ePortfolio for Tom Kocovic"/>
 <meta charset="UTF-8">
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&display=swap" rel="stylesheet" type="text/css">
 	<link type="text/css" rel="stylesheet" href="Assignment.css">
@@ -16,7 +16,7 @@
 		<div id="mainDetails">
 <div id="headshot">
 
-	<img src="circle-cropped.png" alt="Student Name" />
+	<img src="circle-cropped.png"/>
 
 </div>
 
@@ -71,7 +71,7 @@ I finally mustered the courage this year and I hope to expand my knowledge and l
 	<div class="sectionContent">
 	<article>
 	<h3>Senior Web Developer</h3>
-		<img src="job.jpg" alt="Student Name" />
+		<img src="job.jpg"/>
 <br>
 <br>
 			<li><a href="https://www.seek.com.au/job/50110199?type=standard#searchRequestToken=79103b95-dd74-4b5e-9853-45bceb0ed01c "target="_blank">Job Application Link</a></li>
@@ -127,24 +127,24 @@ I finally mustered the courage this year and I hope to expand my knowledge and l
 <br>
 	<h2>Personality Profile</h2>
 	<br>
-		<img src="22.JPG" alt="Student Name" />
+		<img src="22.JPG"/>
 		<br>
 		<br>
 		<p>By considering all options before making actions I believe I can benefit working in a team by hearing everyone out before giving an answer and/or cutting someone off. </p>
 		<p>This could also be taken the other way if I take too long to come to a conclusion.</p>
 		<p>I can both be a listener but will have to keep putting input to the group conversations</p>
 		<br>
-		<img src="m and h 1.JPG" alt="Student Name" />
+		<img src="m and h 1.JPG"/>
 		<br>
 		<br>
-				<img src="m and h 5.JPG" alt="Student Name" />
+				<img src="m and h 5.JPG" />
 				<br>
 <br>
 		<p>By being a reflector I believe I can process what issues the group might be having with a project and come up with a thought out solution.</p>
 		<p>People might think of this as being laid back so I will have to keep in constant contact with the group.</p>
 		<br>
 		<br>
-		<img src="gfff.jpg" alt="Student Name" />
+		<img src="gfff.jpg" />
 		<br>
 		<br>
 		<p>By having a high work ethic and friendliness I believe I can gel with any team no matter what the situation.</p>
@@ -165,7 +165,7 @@ I finally mustered the courage this year and I hope to expand my knowledge and l
 	<div class="sectionTitle"><h2>Project Idea</h2></div>
 	<br>
 	<article>
-		<img src="download.jpg" alt="Student Name" />
+		<img src="download.jpg"/>
 	<br>
 <br>
 <article>
@@ -209,7 +209,7 @@ I finally mustered the courage this year and I hope to expand my knowledge and l
 <p>The hardware and software needed to build the app/Webpage are HTML for web programing development and any text input that you need to add. You would also need CSS to modify the webpage built from HTML to adjust anything that needs attention and add any additional modifications.</p>
 <p>I would also need to source job agency databases and implement them into the app/Webpage and any other relevant sources that may be useful.</p>
 <br>
-<img src="Apple_App_Store_10th_anniversary_07102018_big.gif.large.gif" alt="Student Name" width "900px" height="400px" />
+<img src="Apple_App_Store_10th_anniversary_07102018_big.gif.large.gif" width "900px" height="400px" />
 <br>
 <br>
 <article>
